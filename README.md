@@ -1,2 +1,2 @@
-# learning-terraform
+# learning_terraform
 files from learning terraform
